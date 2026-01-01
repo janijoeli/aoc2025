@@ -1,0 +1,8 @@
+.label sub=$841
+.label find_lf=$815
+.label next_line=$80d
+.label update_input_ptr=$851
+.label input=$861
+.label print_result=$85d
+.label no_tens=$835
+.label dial=$837
