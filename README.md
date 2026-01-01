@@ -1,9 +1,9 @@
-# aoc2023
-Advent of Code 2023 solutions in Commodore 64 Kick Assembler
+# aoc2025
+Advent of Code 2025 solutions in Commodore 64 Kick Assembler
 
-My attempts to complete as many AoC 2023 challenges as possible in 6502 assembler, targeted for stock Commodore 64.
+My attempts to complete as many AoC 2025 challenges as possible in 6502 assembler, targeted for stock Commodore 64.
 
-https://adventofcode.com/2023/about
+https://adventofcode.com/2025/about
 
 Computer specs:
 - CPU: MOS 6510 (fully 6502 compatible) @ 0.985 MHz (PAL version). Fully 8-bit, including all (three!) CPU registers. The only 16-bit thing is the width of memory bus.
