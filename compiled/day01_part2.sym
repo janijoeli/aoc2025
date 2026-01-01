@@ -1,0 +1,9 @@
+.label sub=$853
+.label find_lf=$815
+.label next_line=$80d
+.label update_dial=$864
+.label inc_count=$85e
+.label input=$878
+.label print_result=$874
+.label do_math=$844
+.label dial=$846

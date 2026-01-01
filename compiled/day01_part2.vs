@@ -1,0 +1,9 @@
+al C:853 .sub
+al C:85e .inc_count
+al C:878 .input
+al C:874 .print_result
+al C:815 .find_lf
+al C:80d .next_line
+al C:844 .do_math
+al C:864 .update_dial
+al C:846 .dial
