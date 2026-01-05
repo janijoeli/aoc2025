@@ -1,0 +1,12 @@
+.label do_next=$89c
+.label init=$80d
+.label inc_num1=$8b6
+.label next_range=$81b
+.label next_num=$8cc
+.label input=$8e9
+.label next_num2=$837
+.label code_start=$80d
+.label copy_1st_half=$880
+.label add_to_sum=$89f
+.label validate_range=$88d
+.label find_1st_pair=$84c

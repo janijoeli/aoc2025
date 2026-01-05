@@ -1,0 +1,12 @@
+al C:89c .do_next
+al C:80d .init
+al C:8cc .next_num
+al C:8e9 .input
+al C:837 .next_num2
+al C:80d .code_start
+al C:880 .copy_1st_half
+al C:89f .add_to_sum
+al C:88d .validate_range
+al C:8b6 .inc_num1
+al C:84c .find_1st_pair
+al C:81b .next_range
